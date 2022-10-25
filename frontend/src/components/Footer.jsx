@@ -18,7 +18,8 @@ const Footer = () => {
           <div className="box">
             <h3>quick links</h3>
             <a href="#home">home</a>
-            <a href="#about">about</a>
+            <a href="#about">shop</a>
+            <a href="#about">contact</a>
             <a href="#team">team</a>
           </div>
 
